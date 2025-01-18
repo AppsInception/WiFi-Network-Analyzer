@@ -14,7 +14,7 @@
 - Real time internet speed meter
 - Network routing tables
 
-  <h2>WiFi Signal Scanner (Android Only):</h2>
+<h2>WiFi Signal Scanner (Android Only):</h2>
 
 - WiFi frequencies (2.4 GHz and 5 GHz)
 - Nearby WiFi network with channels and signal strengths
@@ -24,7 +24,7 @@
 - Network bandwidth
 - WiFi Standards
 
-<h2>Device Discovery (LAN Scanner):</h2>
+<h2>Device Discovery (LAN/IP Scanner):</h2>
 
 - WiFi Analyzer and Scanner to detect all online devices connected to the network
 - Provides IP addresses of all detected devices
