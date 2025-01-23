@@ -9,7 +9,7 @@ Network Analyzer is an advanced network scanner app helping thousands of individ
 - ⁠Which frequencies and channels are being used by my and nearby WiFi(s)?
 - ⁠Is my network hacked or secure? 
 - ⁠Why have YouTube or Games or Netflix started buffering?
-- ⁠Is your ISP giving the right speed you’re paying for?
+- ⁠Is my ISP giving the right speed I'm paying for?
 - ⁠And many more tools to analyze WiFi network and servers
 
 <h2>Network Information:</h2>
