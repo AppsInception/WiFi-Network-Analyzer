@@ -1,13 +1,12 @@
 ![network-analyzer](https://github.com/AppsInception/Network-Analyzer/assets/17978864/122fb115-e0e0-4821-8dd8-7a83aa5120d2)
 
-<h1>Features:</h1>
 
 Network Analyzer is an advanced network scanner app helping thousands of individual users and network enthusiasts worldwide to know and be aware of : 
 
 - Who is on my home and office WiFi?
-- ⁠Is someone stealing my WiFi password and broadband network?
+- ⁠Is someone stealing my WiFi and broadband password?
 - ⁠What discovery services are running on my devices and whole devices in WiFi?
-- ⁠Which frequencies and channels are being used by nearby WiFi(s)?
+- ⁠Which frequencies and channels are being used by my and nearby WiFi(s)?
 - ⁠Is my network hacked or secure? 
 - ⁠Why have YouTube or Games or Netflix started buffering?
 - ⁠Is your ISP giving the right speed you’re paying for?
