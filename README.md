@@ -2,6 +2,17 @@
 
 <h1>Features:</h1>
 
+Network Analyzer is an advanced network scanner app helping thousands of individual users and network enthusiasts worldwide to know and be aware of : 
+
+- Who is on my home and office WiFi?
+- ⁠Is someone stealing my WiFi password and broadband network?
+- ⁠What discovery services are running on my devices and whole devices in WiFi?
+- ⁠Which frequencies and channels are being used by nearby WiFi(s)?
+- ⁠Is my network hacked or secure? 
+- ⁠Why have YouTube or Games or Netflix started buffering?
+- ⁠Is your ISP giving the right speed you’re paying for?
+- ⁠And many more tools to analyze WiFi network and servers
+
 <h2>Network Information:</h2>
 
 - Current connection with default gateway, HTTP Proxy, external IP, DNS server(s), ISP name
