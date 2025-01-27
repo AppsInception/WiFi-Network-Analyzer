@@ -1,27 +1,19 @@
 ![network-analyzer](https://github.com/AppsInception/Network-Analyzer/assets/17978864/122fb115-e0e0-4821-8dd8-7a83aa5120d2)
 
-
-Network Analyzer is an advanced network scanner app helping thousands of individual users and network enthusiasts worldwide to know and be aware of : 
+Network Analyzer is an advanced network scanner app helping thousands of individual users and network enthusiasts worldwide to know and be aware of: 
 
 - Who is on my home and office WiFi?
-- ⁠Is someone stealing my WiFi and broadband password?
-- ⁠What discovery services are running on my devices and whole devices in WiFi?
-- ⁠Which frequencies and channels are being used by my and nearby WiFi(s)?
-- ⁠Is my network hacked or secure? 
-- ⁠Why have YouTube or Games or Netflix started buffering?
-- ⁠Is my ISP giving the right speed I'm paying for?
-- ⁠And many more tools to analyze WiFi network and servers
+- Is someone stealing my WiFi and broadband password?
+- What discovery services are running on my devices and whole devices in WiFi?
+- Which frequencies and channels are being used by my and nearby WiFi(s)?
+- Is my network hacked or secure? 
+- Why have YouTube or Games or Netflix started buffering?
+- Is my ISP giving the right speed I'm paying for?
+- And many more tools to analyze WiFi network and servers
 
-
-<p align="center">
-  <a href="https://apps.apple.com/us/app/network-analyzer-WiFi-scanner/id6475303256">
-    <img src="app-store.png" alt="App Store" width="150">
-  </a>
-  <a href="https://play.google.com/store/apps/details?id=com.appsinception.networkinfo">
-    <img src="play-store.png" alt="Play Store" width="150">
-  </a>
-</p>
-
+| <a href="https://apps.apple.com/us/app/network-analyzer-WiFi-scanner/id6475303256"><img src="app-store.png" alt="App Store" width="150"></a> | <a href="https://play.google.com/store/apps/details?id=com.appsinception.networkinfo"><img src="play-store.png" alt="Play Store" width="150"></a> |
+|:---:|:---:|
+| **iOS App** | **Android App** |
 
 <h2>Network Information:</h2>
 
@@ -55,7 +47,6 @@ Network Analyzer is an advanced network scanner app helping thousands of individ
 - WiFi Network details (Access points, Network setup)
 - Discover online devices in home and office WiFi network
 
-
 <h2>Network Tools:</h2>
 
 Our advanced network tools are used to verify internet performance, improve network security, troubleshoot and monitor network and more -
@@ -70,18 +61,9 @@ Our advanced network tools are used to verify internet performance, improve netw
 - DNS Lookup (A, AAAA, CAA, MX,NS, TXT more)
 - MAC Address Lookup (Including MAC address, OUI and Vendor name)
 
-  ![Network Analyzer Tools](network-analyzer-tools.png)
-
+![Network Analyzer Tools](network-analyzer-tools.png)
 
 <h2>Local Service Discovery:</h2>
 
 - Bonjour services browser
 - UPnP services and device browser
-
-<h2>iOS App:</h2>
-<b>Download from App Store:</b> https://apps.apple.com/us/app/network-analyzer-WiFi-scanner/id6475303256
-
-<h2>Android App:</h2>
-<b>Download from Play Store:</b> https://play.google.com/store/apps/details?id=com.appsinception.networkinfo
-
-
