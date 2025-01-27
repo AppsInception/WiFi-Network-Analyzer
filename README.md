@@ -12,6 +12,17 @@ Network Analyzer is an advanced network scanner app helping thousands of individ
 - ⁠Is my ISP giving the right speed I'm paying for?
 - ⁠And many more tools to analyze WiFi network and servers
 
+
+<p align="center">
+  <a href="https://apps.apple.com/us/app/network-analyzer-WiFi-scanner/id6475303256">
+    <img src="app-store.png" alt="App Store" width="150">
+  </a>
+  <a href="https://play.google.com/store/apps/details?id=com.appsinception.networkinfo">
+    <img src="play-store.png" alt="Play Store" width="150">
+  </a>
+</p>
+
+
 <h2>Network Information:</h2>
 
 - Current connection with default gateway, HTTP Proxy, external IP, DNS server(s), ISP name
