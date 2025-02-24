@@ -1,4 +1,4 @@
-![network-analyzer](https://github.com/AppsInception/Network-Analyzer/assets/17978864/122fb115-e0e0-4821-8dd8-7a83aa5120d2)
+![Network Analyzer](network-analyzer.png)
 
 Network Analyzer is an advanced network scanner app helping thousands of individual users and network enthusiasts worldwide to know and be aware of: 
 
