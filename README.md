@@ -58,6 +58,9 @@ Our advanced network tools are used to verify internet performance, improve netw
 - Traceroute (Including Visual Trace)
 - Find open ports
 - Router vulnerability
+- Privacy Analyzer/Browser Privacy Lookup
+- SSL Certificate Checker
+- IP Address Lookup
 - DNS Lookup (A, AAAA, CAA, MX,NS, TXT more)
 - MAC Address Lookup (Including MAC address, OUI and Vendor name)
 
